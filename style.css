@@ -1,0 +1,56 @@
+
+
+body {
+	background-color:#FBFFF1;
+	text-align: 2;
+	letter-spacing: 1px;
+	text-align: center;
+	text-decoration: none;
+	}
+
+h1{
+	color: #120D31;
+	font-size: 40px;
+	text-align:center; 
+	font-family: "Cinzel", sans-serif;
+	box-shadow: 4px 4px 5px black;
+}
+
+
+p{
+	color:#120D31;
+	font-size: 15px;
+	font-family: "Cinzel", sans-serif;
+	margin: 20px;
+
+}
+
+h2{
+	text-align: right; 
+	margin: 40px;
+}
+
+.présentation{
+	text-align: right;
+	margin: 20px;
+	font-family: "Cinzel";
+	font-size: 2px;
+}
+
+.présentation #phrase{
+	font-size: 10px;
+}
+
+
+.fond{
+	justify-content: space-between;
+}
+
+.fond #panneau{
+	padding-left: 200px;
+}
+
+
+
+
+
